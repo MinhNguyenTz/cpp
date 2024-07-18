@@ -31,11 +31,11 @@ namespace {
   const ll inf = 1e18;
 }
 
-void solve(){
+void solve() {
   
 }
  
-int main (){
+int main () {
   fio;
   solve();
   return 0;
